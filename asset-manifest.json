@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TerraCobynnha/covid-awareness/static/css/main.6a934dfc.chunk.css",
-    "main.js": "/TerraCobynnha/covid-awareness/static/js/main.28cffaad.chunk.js",
-    "main.js.map": "/TerraCobynnha/covid-awareness/static/js/main.28cffaad.chunk.js.map",
-    "runtime-main.js": "/TerraCobynnha/covid-awareness/static/js/runtime-main.61c83e39.js",
-    "runtime-main.js.map": "/TerraCobynnha/covid-awareness/static/js/runtime-main.61c83e39.js.map",
-    "static/js/2.41179d9e.chunk.js": "/TerraCobynnha/covid-awareness/static/js/2.41179d9e.chunk.js",
-    "static/js/2.41179d9e.chunk.js.map": "/TerraCobynnha/covid-awareness/static/js/2.41179d9e.chunk.js.map",
-    "index.html": "/TerraCobynnha/covid-awareness/index.html",
-    "precache-manifest.38167fa92694bbc27e3d1951ecb9706a.js": "/TerraCobynnha/covid-awareness/precache-manifest.38167fa92694bbc27e3d1951ecb9706a.js",
-    "service-worker.js": "/TerraCobynnha/covid-awareness/service-worker.js",
-    "static/css/main.6a934dfc.chunk.css.map": "/TerraCobynnha/covid-awareness/static/css/main.6a934dfc.chunk.css.map",
-    "static/js/2.41179d9e.chunk.js.LICENSE.txt": "/TerraCobynnha/covid-awareness/static/js/2.41179d9e.chunk.js.LICENSE.txt"
+    "main.css": "/covid-awareness/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/covid-awareness/static/js/main.6e596b2e.chunk.js",
+    "main.js.map": "/covid-awareness/static/js/main.6e596b2e.chunk.js.map",
+    "runtime-main.js": "/covid-awareness/static/js/runtime-main.4437bce9.js",
+    "runtime-main.js.map": "/covid-awareness/static/js/runtime-main.4437bce9.js.map",
+    "static/js/2.41179d9e.chunk.js": "/covid-awareness/static/js/2.41179d9e.chunk.js",
+    "static/js/2.41179d9e.chunk.js.map": "/covid-awareness/static/js/2.41179d9e.chunk.js.map",
+    "index.html": "/covid-awareness/index.html",
+    "precache-manifest.fb59984638c7ef839bbf0f385e130a19.js": "/covid-awareness/precache-manifest.fb59984638c7ef839bbf0f385e130a19.js",
+    "service-worker.js": "/covid-awareness/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/covid-awareness/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.41179d9e.chunk.js.LICENSE.txt": "/covid-awareness/static/js/2.41179d9e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.61c83e39.js",
+    "static/js/runtime-main.4437bce9.js",
     "static/js/2.41179d9e.chunk.js",
     "static/css/main.6a934dfc.chunk.css",
-    "static/js/main.28cffaad.chunk.js"
+    "static/js/main.6e596b2e.chunk.js"
   ]
 }
