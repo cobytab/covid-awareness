@@ -1,16 +1,14 @@
 import React from "react";
 import "./App.css";
 import Home from "./components/Home";
+import Cards from "./components/Cards";
 import { Container } from "reactstrap";
 
 function App() {
   return (
     <div className="App">
-      <div className="overlay">
-        <Container>
-          <Home />
-        </Container>
-      </div>
+        <Home />
+        <Cards />
     </div>
   );
 }
