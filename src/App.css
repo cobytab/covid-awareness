@@ -1,38 +1,56 @@
-.App {
-  text-align: center;
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: url('./images/background.jpg');  background-attachment: scroll;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.overlay {
+  height: 100vh;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Home {
+  height: 100vh;
   display: flex;
+  justify-content: center;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.home-title {
+  letter-spacing: 1rem;
+  font-size: 4.5rem;
+  text-align: center;
+  font-weight: bold;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.home-sub-title {
+  font-size: 1.8rem;
+  text-align: center;
+  text-transform: sentence;
+  letter-spacing: 0.3rem;
+}
+
+.course-code {
+  color: #ddd;
+  font-size: 1.6rem;
+}
+
+@media screen and (max-width: 700px) {
+  .home-title {
+    font-size: 3rem;
   }
-  to {
-    transform: rotate(360deg);
+  .home-sub-title {
+    font-size: 1.0rem;
+  }
+  .course-code {
+    font-size: 0.8rem;
   }
 }
