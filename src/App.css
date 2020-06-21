@@ -68,5 +68,10 @@ body {
 
 .card-image {
   width: 100%;
-  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 1rem;
+}
+
+.Facts {
+  background: linear-gradient(120deg, rgba(240, 153, 7, 0.3), rgba(0, 0, 255, 0.4))
 }

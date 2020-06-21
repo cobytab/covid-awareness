@@ -1,27 +1,27 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 
 // Reactstrap
-import {Container } from "reactstrap";
+import { Container } from "reactstrap";
 
 // Personal files
-import Covid5 from '../images/covid1.png'
-import Covid6 from '../images/covid2.png'
-import Covid7 from '../images/covid3.png'
-import Covid8 from '../images/covid4.png'
+import Covid5 from "../images/covid5.jpg";
+import Covid6 from "../images/covid6.png";
+import Covid7 from "../images/covid7.png";
+import Covid8 from "../images/covid8.png";
 
 // Components
-import CardSet from './CardSet';
+import CardSet from "./CardSet";
 
-const Cards = () => {
-    const [list] = useState([Covid5, Covid6, Covid7, Covid8]);
+const Facts = () => {
+  const [list] = useState([Covid5, Covid6, Covid7, Covid8]);
   return (
     <div className="Cards Facts">
       <Container>
-        <h1 className="cards-title">COVID-19 FACTS</h1>
+        <h1 className="cards-title text-light">COVID-19 FACTS</h1>
         <CardSet list={list} />
       </Container>
     </div>
   );
 };
 
-export default Cards;
+export default Facts;
