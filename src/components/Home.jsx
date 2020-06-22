@@ -9,7 +9,7 @@ const Home = () => {
         <h1 className="home-sub-title text-white">
           FOR THE PEOPLE OF WALEWALE
         </h1>
-        <h1 className="home-sub-title course-code">CSCD 426</h1>
+        <h1 className="home-sub-title course-code">CSCD 426 - 10629392</h1>
       </div>
     </Container>
   );
