@@ -1,29 +1,27 @@
-import React, {useState} from "react";
+import React from "react";
 
 // Reactstrap
-import {Container, Row, Col } from "reactstrap";
+import { Container, Row, Col } from "reactstrap";
 
 // Personal files
-import Summary from './../videos/sampleSummary.mp4';
-import Poster from '../images/covid2.png';
-
-
-// Components
-import CardSet from './CardSet';
+import Summary from "./../videos/sampleSummary.mp4";
+import Poster from "../images/poster.jpg";
 
 const Video = () => {
-    // const [list] = useState([Covid1, Covid2, Covid3, Covid4]);
   return (
     <div className="Cards Video">
       <Container>
-        <h1 className="cards-title med">A VIDEO SUMMARY</h1>
-        {/* <CardSet list={list} /> */}
+        <h1 className="cards-title">A VIDEO SUMMARY</h1>
         <Row>
-            <Col>
-                <video controls poster={Poster} style={{width: '100%'}} src={Summary} ></video>
-            </Col>
+          <Col>
+            <video
+              controls
+              poster={Poster}
+              style={{ width: "100%", objectFit: 'cover' }}
+              src={Summary}
+            ></video>
+          </Col>
         </Row>
-
       </Container>
     </div>
   );

@@ -6,7 +6,7 @@ const CardSet = ({ list }) => {
     <Row>
       {list.map((item) => {
         return (
-          <Col lg="6">
+          <Col md="6">
             <img src={item} className="card-image" />
           </Col>
         );

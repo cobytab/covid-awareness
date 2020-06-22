@@ -76,6 +76,32 @@ body {
   background: linear-gradient(120deg, rgba(240, 153, 7, 0.3), rgba(0, 0, 255, 0.4))
 }
 
-/* .Video {
-  background: linear-gradient(120deg, rgba(0, 0, 255, 0.4), rgba(240, 153, 7, 0.3))
-} */
+.Safe {
+  background: rgba(240, 153, 7, 0.3);
+  max-height: 100vh;
+}
+
+.safe-image {
+  height: 80vh;
+  text-align: center;
+}
+
+h1.safe-text {
+  color: #fff;
+  font-size: 6rem;
+  font-family: cursive;
+}
+h3.safe-text {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.safe-image-col {
+  text-align: center;
+}
+
+.safe-image-col:nth-child(2) {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
