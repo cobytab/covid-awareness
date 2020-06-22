@@ -7,7 +7,7 @@ const CardSet = ({ list }) => {
       {list.map((item) => {
         return (
           <Col md="6">
-            <img src={item} className="card-image" />
+            <img alt="covid art" src={item} className="card-image" />
           </Col>
         );
       })}
