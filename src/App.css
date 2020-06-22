@@ -2,10 +2,8 @@ body {
   padding: 0;
   margin: 0;
   height: 100vh;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url("./images/background.jpg");
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('./images/background.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -73,7 +71,7 @@ body {
 }
 
 .Facts {
-  background: linear-gradient(120deg, rgba(240, 153, 7, 0.3), rgba(0, 0, 255, 0.4))
+  background: linear-gradient(120deg, rgba(240, 153, 7, 0.3), rgba(0, 0, 255, 0.4));
 }
 
 .Safe {

@@ -1,14 +1,11 @@
-import React from "react";
+import React from 'react';
 
 // Reactstrap
-import { Container, Row, Col } from "reactstrap";
+import { Container, Row, Col } from 'reactstrap';
 
 // Personal files
-import Nose1 from "../images/nose1.png";
-import Nose2 from "../images/nose2.png";
-
-// Components
-import CardSet from "./CardSet";
+import Nose1 from '../images/nose1.png';
+import Nose2 from '../images/nose2.png';
 
 const StaySafe = () => {
   return (
