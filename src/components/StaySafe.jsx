@@ -1,11 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 
 // Reactstrap
 import { Container, Row, Col } from "reactstrap";
 
 // Personal files
-import Summary from "./../videos/sampleSummary.mp4";
-import Poster from "../images/covid2.png";
 import Nose1 from "../images/nose1.png";
 import Nose2 from "../images/nose2.png";
 
@@ -13,7 +11,6 @@ import Nose2 from "../images/nose2.png";
 import CardSet from "./CardSet";
 
 const StaySafe = () => {
-  // const [list] = useState([Covid1, Covid2, Covid3, Covid4]);
   return (
     <div className="Cards Safe">
       <Container>
