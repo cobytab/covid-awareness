@@ -3,7 +3,8 @@ import "./App.css";
 import Home from "./components/Home";
 import Cards from "./components/Cards";
 import Facts from "./components/Facts";
-import { Container } from "reactstrap";
+import Video from "./components/Video";
+import StaySafe from './components/StaySafe';
 
 function App() {
   return (
@@ -11,6 +12,8 @@ function App() {
         <Home />
         <Cards />
         <Facts />
+        <Video />
+        <StaySafe />
     </div>
   );
 }
