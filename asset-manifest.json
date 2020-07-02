@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/covid-awareness/static/css/main.d7aa8d65.chunk.css",
-    "main.js": "/covid-awareness/static/js/main.685347e2.chunk.js",
-    "main.js.map": "/covid-awareness/static/js/main.685347e2.chunk.js.map",
+    "main.js": "/covid-awareness/static/js/main.05338dcf.chunk.js",
+    "main.js.map": "/covid-awareness/static/js/main.05338dcf.chunk.js.map",
     "runtime-main.js": "/covid-awareness/static/js/runtime-main.4437bce9.js",
     "runtime-main.js.map": "/covid-awareness/static/js/runtime-main.4437bce9.js.map",
     "static/css/2.af3c1da9.chunk.css": "/covid-awareness/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.92974230.chunk.js": "/covid-awareness/static/js/2.92974230.chunk.js",
-    "static/js/2.92974230.chunk.js.map": "/covid-awareness/static/js/2.92974230.chunk.js.map",
+    "static/js/2.e9d6f2a5.chunk.js": "/covid-awareness/static/js/2.e9d6f2a5.chunk.js",
+    "static/js/2.e9d6f2a5.chunk.js.map": "/covid-awareness/static/js/2.e9d6f2a5.chunk.js.map",
     "index.html": "/covid-awareness/index.html",
-    "precache-manifest.2d0c52b6d34829e8fdd6bf2d53ace9fe.js": "/covid-awareness/precache-manifest.2d0c52b6d34829e8fdd6bf2d53ace9fe.js",
+    "precache-manifest.6addb2eed3e651ff7cc513a81dd885ef.js": "/covid-awareness/precache-manifest.6addb2eed3e651ff7cc513a81dd885ef.js",
     "service-worker.js": "/covid-awareness/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/covid-awareness/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.d7aa8d65.chunk.css.map": "/covid-awareness/static/css/main.d7aa8d65.chunk.css.map",
-    "static/js/2.92974230.chunk.js.LICENSE.txt": "/covid-awareness/static/js/2.92974230.chunk.js.LICENSE.txt",
+    "static/js/2.e9d6f2a5.chunk.js.LICENSE.txt": "/covid-awareness/static/js/2.e9d6f2a5.chunk.js.LICENSE.txt",
+    "static/media/426ExamEdit.mp4": "/covid-awareness/static/media/426ExamEdit.28279117.mp4",
     "static/media/App.css": "/covid-awareness/static/media/background.957496ed.jpg",
     "static/media/covid1.png": "/covid-awareness/static/media/covid1.ed674b5d.png",
     "static/media/covid2.png": "/covid-awareness/static/media/covid2.e6614787.png",
@@ -30,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.4437bce9.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.92974230.chunk.js",
+    "static/js/2.e9d6f2a5.chunk.js",
     "static/css/main.d7aa8d65.chunk.css",
-    "static/js/main.685347e2.chunk.js"
+    "static/js/main.05338dcf.chunk.js"
   ]
 }
